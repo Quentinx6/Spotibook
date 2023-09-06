@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a37a47d-026f-4d8a-8e7d-2468bb3f23a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FRONT/screens/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/FRONT/screens/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FRONT/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/FRONT/src/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/borrowController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/borrowController.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/database/connect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/connect.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +18,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/API" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,13 +38,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "src",
     "last_opened_file_path": "/Users/quentinlecompte/Documents/Livre_Simplon 2/API/src/models",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "ts.external.directory.path": "/Users/quentinlecompte/Documents/Livre_Simplon 2/API/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -92,7 +87,10 @@
       <workItem from="1686642274509" duration="1526000" />
       <workItem from="1686726833476" duration="10222000" />
       <workItem from="1686813807375" duration="1416000" />
-      <workItem from="1693985146262" duration="5053000" />
+      <workItem from="1693985146262" duration="5669000" />
+      <workItem from="1693993126813" duration="929000" />
+      <workItem from="1693994720706" duration="148000" />
+      <workItem from="1693994980740" duration="57000" />
     </task>
     <servers />
   </component>
@@ -109,5 +107,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/API" />
+    </ignored-roots>
   </component>
 </project>
