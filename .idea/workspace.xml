@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a37a47d-026f-4d8a-8e7d-2468bb3f23a4" name="Changes" comment="" />
+    <list default="true" id="8a37a47d-026f-4d8a-8e7d-2468bb3f23a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRONT/screens/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/FRONT/screens/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FRONT/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/FRONT/src/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/borrowController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/borrowController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/connect.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/connect.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/model.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +29,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.1.10_1/bin/php" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -33,17 +44,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/quentinlecompte/Documents/Livre_Simplon",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/quentinlecompte/Documents/Livre_Simplon 2/API/src/models",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/quentinlecompte/Documents/Livre_Simplon/API/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/quentinlecompte/Documents/Livre_Simplon 2/API/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/API/src/models" />
+      <recent name="$PROJECT_DIR$/API/src/database" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -74,7 +90,9 @@
       <option name="presentableId" value="Default" />
       <updated>1686642273291</updated>
       <workItem from="1686642274509" duration="1526000" />
-      <workItem from="1686726833476" duration="8649000" />
+      <workItem from="1686726833476" duration="10222000" />
+      <workItem from="1686813807375" duration="1416000" />
+      <workItem from="1693985146262" duration="5053000" />
     </task>
     <servers />
   </component>

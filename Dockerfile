@@ -7,7 +7,7 @@ ADD . /dist/
 WORKDIR /dist
 
 #
-RUN touch .env
+RUN touch env
 
 #
 RUN ls -a

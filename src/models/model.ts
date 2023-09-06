@@ -38,10 +38,16 @@ export type TSelfPointService = {
         zip_code : number,
 }
 
+export type TUsers = {
+        name : string,
+        code : string,
+}
+
 
 export interface IBook extends TBook , Document{};
 
 export interface ISelfPointService extends TSelfPointService,Document{};
+export interface IUsers extends TUsers,Document{};
 
 
 const schemaBook = new Schema({
@@ -60,7 +66,13 @@ const schemaSelfPoint = new Schema ({
     zip_code : {type:Number},
 })
 
+const schemaUsers = new Schema ({
+    name : {type:String},
+    code :  {type:String},
+})
+
 
 export const modelBook = model('book',schemaBook)
 
 export const modelSelfService = model('selfservice',schemaSelfPoint)
+export const modelUsers = model('users',schemaUsers)

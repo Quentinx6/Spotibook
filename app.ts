@@ -20,7 +20,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 createData()
-// dotenv.config({path: `./.env.${process.env.NODE_ENV}`})
+// dotenv.config({path: `./env.${process.env.NODE_ENV}`})
 dotenv.config();
 
 const swaggerOptions = {

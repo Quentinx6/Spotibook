@@ -8,20 +8,19 @@ const Home = () => {
     return (
         <View style={styles.container}>
 
-            <Text style={styles.title}>SPOTIBOOK</Text>
+            <Text style={styles.title}>📚SPOTIBOOK 📚</Text>
 
             <Text style={styles.text}>Que souhaitez-vous faire ?</Text>
             <View style={styles.conn}>
 
-
                 <View style={styles.card}>
 
                     <Link to={'/emprunter'}><Image style={styles.image} source={require('../assets/biblio.png')}></Image></Link>
-                    <Text style={styles.txt}>Emprunter un livre</Text>
+                    <Text style={styles.txt}>Emprunter un livre 📔</Text>
                 </View>
                 <View style={styles.card}>
                     <Link to={'/rendre'}><Image style={styles.img} source={require('../assets/back.png')}></Image></Link>
-                    <Text style={styles.txt}>Rendre un livre</Text>
+                    <Text style={styles.txt}>Rendre un livre 📥</Text>
                 </View>
             </View>
 
