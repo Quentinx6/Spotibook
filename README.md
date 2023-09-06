@@ -8,7 +8,7 @@
 
 2. yarn install
 
-3. In the folder "API"
+3. In the folder "BACK"
 
 4. Execute "npm run dev"
 
